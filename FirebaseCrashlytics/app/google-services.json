@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832401249606",
+    "firebase_url": "https://fir-crashlyticsdemo-8e8ff.firebaseio.com",
+    "project_id": "fir-crashlyticsdemo-8e8ff",
+    "storage_bucket": "fir-crashlyticsdemo-8e8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832401249606:android:2d06d0e7ca0bd822",
+        "android_client_info": {
+          "package_name": "com.example.deepak.firebasecrashlyticsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832401249606-3d7ue3dq993rorrhivee8j7kujv0rd9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPNzghbBnxi--ke1qMacq162zw3Ug1ws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
